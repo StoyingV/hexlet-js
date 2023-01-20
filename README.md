@@ -1,2 +1,1 @@
-# hexlet-js
-Educational purpose repository
+Мой первый проект на Хекслете
