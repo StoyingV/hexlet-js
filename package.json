@@ -1,0 +1,23 @@
+{
+  "name": "first_package",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "package for my first hexlet js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoyingV/hexlet-js.git"
+  },
+  "keywords": [
+    "kudrovo2016"
+  ],
+  "author": "Vitaly Portnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StoyingV/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/StoyingV/hexlet-js#readme"
+}
